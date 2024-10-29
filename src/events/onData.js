@@ -33,5 +33,4 @@ export const onData = (socket) => (data) => {
       break;
     }
   }
-
 };
